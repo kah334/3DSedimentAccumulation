@@ -11,4 +11,4 @@ Base_SLD.STL : contains files for the base, including attachment on bottom for s
 
 Lid_STL.STL: contains files for printing a lid to fit the base. The lid should be printed with flexible filament.
 
-Additional files included for interested parties are solidworks files for the base, lid, a skeleton of the tin size we used, and assy.
+Additional files included for interested parties are solidworks files for the base, lid, a skeleton of the tin size we used, and assembly (assy).
