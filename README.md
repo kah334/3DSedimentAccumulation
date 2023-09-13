@@ -1,7 +1,7 @@
 # 3DSedimentAccumulation
 3-D printing files for sediment accumulation device designed in collaboration with EP Oceanographic, LLC.
 
-More information on this design can be found in the following paper: /<CITATION/>
+More information on this design can be found in the following paper: CITATION
 
 Design created using Solidworks
 
