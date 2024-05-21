@@ -1,7 +1,8 @@
 # 3DSedimentAccumulation
 3-D printing files for sediment accumulation device designed in collaboration with EP Oceanographic, LLC.
 
-More information on this design can be found in the following paper: CITATION
+More information on this design can be found in the following paper: 
+Haviland, K., Howarth, R.W., Hayn, M., & Giblin, A.E. (2024). Characterizing spatial and temporal trends in net sediment accumulation in seagrass meadows. Estuaries & Coasts. https://doi.org/10.1007/s12237-024-01365-4
 
 Design created using Solidworks
 
